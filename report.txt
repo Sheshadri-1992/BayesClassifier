@@ -1,0 +1,33 @@
+Naive-Bayes' classifier
+epoch:  0 , Accuracy:  0.872130042388
+epoch:  1 , Accuracy:  0.872155103537
+epoch:  2 , Accuracy:  0.872079896729
+epoch:  3 , Accuracy:  0.872160096224
+epoch:  4 , Accuracy:  0.872114987964
+epoch:  5 , Accuracy:  0.872150060863
+epoch:  6 , Accuracy:  0.872155126898
+epoch:  7 , Accuracy:  0.872145063654
+epoch:  8 , Accuracy:  0.872019736809
+epoch:  9 , Accuracy:  0.872119989945
+epoch:  10 , Accuracy:  0.872145054611
+epoch:  11 , Accuracy:  0.87205486723
+epoch:  12 , Accuracy:  0.872044832622
+epoch:  13 , Accuracy:  0.87207491635
+epoch:  14 , Accuracy:  0.871954653781
+epoch:  15 , Accuracy:  0.872089949925
+epoch:  16 , Accuracy:  0.872099965191
+epoch:  17 , Accuracy:  0.871969665251
+epoch:  18 , Accuracy:  0.871989681968
+epoch:  19 , Accuracy:  0.872175120756
+epoch:  20 , Accuracy:  0.872074918611
+epoch:  21 , Accuracy:  0.872155103537
+epoch:  22 , Accuracy:  0.87220519519
+epoch:  23 , Accuracy:  0.872104941299
+epoch:  24 , Accuracy:  0.872175129045
+epoch:  25 , Accuracy:  0.872245337891
+epoch:  26 , Accuracy:  0.872069881212
+epoch:  27 , Accuracy:  0.872074931924
+epoch:  28 , Accuracy:  0.872099955143
+epoch:  29 , Accuracy:  0.872079909037
+Mean  0.872103803853
+Standard Deviation  6.56738808824e-05
